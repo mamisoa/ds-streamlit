@@ -1,0 +1,7 @@
+Dataset,Visualization,Feature 1,Feature 2,Feature 3
+PUMP,MEL,homogeneity,power,harmonics
+FAN,MEL,harmonics,bandwidth,peaks
+SLIDER,MEL,homogeneity,harmonics,"~beats, rhythm"
+TOYCAR,MEL,"Beats, rhythm",harmonics,
+TOYCONVEYOR,MEL,"Beats, rhythm",harmonics,
+VALVE,MEL,"Beats, rhythm",harmonics,bandwidth
